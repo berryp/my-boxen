@@ -39,4 +39,6 @@ github "sudo",     "1.0.0"
 
 github "chrome", "1.0.0"
 github "mongodb", "1.0.0"
+gitbub "xquartz", "1.0.0"  # Python dep.
 github "python", "1.0.1"
+
