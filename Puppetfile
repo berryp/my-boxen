@@ -39,8 +39,14 @@ github "sudo",     "1.0.0"
 
 github "chrome", "1.0.0"
 github "mongodb", "1.0.1", :repo => "berryp/puppet-mongodb"
-github "xquartz", "1.0.0"  # Python dep.
+github "xquartz", "1.0.0"  # Python depends on this.
 github "python", "1.0.1"
 github "dropbox", "1.0.0"
-github "sublime_text_2", "1.0.0"
-
+github "sublime_text_2", "1.0.0", :repo => "berryp/puppet-sublime_text_2"
+github "onepassword", "1.0.0"
+github "skype", "1.0.0"
+github "virtualbox", "1.0.0"
+github "vlc", "1.0.0"
+github "wget", "1.0.0"
+github "java", "1.0.5"
+github "handbrake", "1.0.0"
