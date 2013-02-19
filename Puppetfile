@@ -37,7 +37,7 @@ github "sudo",     "1.0.0"
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
 
-github "chrome", "1.0.0"
+github "chrome", "1.0.0", :repo => "boxen/puppet-chrome"
 github "mongodb", "1.0.1", :repo => "berryp/puppet-mongodb"
 github "xquartz", "1.0.0"  # Python depends on this.
 github "python", "1.0.1"
