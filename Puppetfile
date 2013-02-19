@@ -38,7 +38,9 @@ github "sudo",     "1.0.0"
 # https://github.com/boxen.
 
 github "chrome", "1.0.0"
-github "mongodb", "1.0.0"
+github "mongodb", "1.0.0", :repo => "berryp/puppet-mongodb"
 github "xquartz", "1.0.0"  # Python dep.
 github "python", "1.0.1"
+github "dropbox", "1.0.0"
+github "sublime_text_2", "1.0.0"
 
