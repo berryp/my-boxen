@@ -1,5 +1,6 @@
 class people::berryp::applications {
-  notify { 'class people::berryp::applications declared': }
+  include chrome::dev
+  include mongodb
 
-  include chrome
+  notify { 'class people::berryp::applications declared': }
 }

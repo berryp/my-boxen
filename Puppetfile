@@ -38,3 +38,4 @@ github "sudo",     "1.0.0"
 # https://github.com/boxen.
 
 github "chrome", "1.0.0"
+github "mongodb". "1.0.0"
