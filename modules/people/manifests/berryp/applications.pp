@@ -1,3 +1,5 @@
 class people::berryp::applications {
-  include chrome::dev
+  notify { 'class people::berryp::applications declared': }
+
+  include chrome
 }
