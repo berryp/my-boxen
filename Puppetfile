@@ -39,3 +39,4 @@ github "sudo",     "1.0.0"
 
 github "chrome", "1.0.0"
 github "mongodb", "1.0.0"
+github "python", "1.0.1"
