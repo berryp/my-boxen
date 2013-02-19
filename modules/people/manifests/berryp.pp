@@ -2,7 +2,7 @@ class people::berryp {
 
   notify { 'class people::berryp declared': }
 
-  include people::glarizza::applications
+  include people::berryp::applications
 
   ##################################
   ## Facter, Puppet, and Envpuppet##
